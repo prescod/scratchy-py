@@ -33,3 +33,7 @@ def BounceAround():
 
 </pre>
 
+The team has been considering a variety of solutions to this, including
+Python 3 co-routines, the addition of cooperative threads (built on 
+Suspensions) and an event-based/message-based model.
+
