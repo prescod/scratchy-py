@@ -6,7 +6,7 @@ Scratchy-py will bring Scratch concepts of autonomous, rich "Sprites" to
 Python. We intend it to be a great environment for learning programming 
 and Python.
 
-Scratcy-py is intended to run both in the browser and on the Desktop. The
+Scratchy-py is intended to run both in the browser and on the Desktop. The
 browser is the highest priority, because we feel that it will be the 
 educaitonal environment of the future.
 
@@ -14,8 +14,8 @@ You can see a very early prototype here:
 
 https://trinket.io/python/9fbfc2523c
 
-The protoype runs on Processing.py which runs on Skulpt which runs in the 
-browser. Trinket is also a great environment for hosting these games.
+The protoype runs on [Processing.py](http://py.processing.org/) which runs on [Skulpt](http://www.skulpt.org/) which runs in the 
+browser. [Trinket](https://trinket.io/python) is also a great environment for hosting these games.
 
 So far, the biggest challenge that we have identified is that Scratch
 uses cooperative multitasking in a very transparent way. Python threads
